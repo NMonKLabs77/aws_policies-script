@@ -1,5 +1,5 @@
 # Create a Script that iterates through a dictionary of IAM policies to create a CSV file
-[Link to aws.py]("/aws.py")
+[Link to aws.py](/aws.py)
 
 ## Requirements 
 - Install pip3 with sudo apt install python3-pip
